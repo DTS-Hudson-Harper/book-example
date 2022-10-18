@@ -34,7 +34,7 @@ function App() {
                 <Book key={book.id} book={book} refetch={refetch} />
             ))}
             <button className="add" onClick={mutateAdd}>
-                Add Book
+                Add New Book
             </button>
         </div>
     );
