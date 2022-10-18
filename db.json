@@ -1,0 +1,43 @@
+{
+  "books": [
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "id": 1
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "id": 2
+    },
+    {
+      "title": "The Silmarillion",
+      "author": "J.R.R. Tolkien",
+      "id": 3
+    },
+    {
+      "title": "The Giver",
+      "author": "Lois Lowry",
+      "year": 2022,
+      "id": 4
+    },
+    {
+      "title": "New Book",
+      "author": "New Author",
+      "year": 2022,
+      "id": 5
+    },
+    {
+      "title": "New Book",
+      "author": "New Author",
+      "year": 2022,
+      "id": 6
+    },
+    {
+      "title": "New Book",
+      "author": "New Author",
+      "year": 2022,
+      "id": 7
+    }
+  ]
+}
